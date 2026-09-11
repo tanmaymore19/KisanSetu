@@ -1,0 +1,10 @@
+{
+  "name": "KisanSetu",
+  "description": "KisanSetu - Direct farm-to-consumer fresh produce marketplace, consumer-funded farming partnerships, farm visit slot booking, farm worker assistance requests, and agricultural machinery store.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
